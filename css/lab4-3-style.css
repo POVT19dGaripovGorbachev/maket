@@ -355,7 +355,10 @@ display: flex;
     width: 290px;
 
 }
+.advs .br{
+display: none;
 
+}
 .adv-text{
     height: 61px;
     width: 200px;
@@ -394,7 +397,9 @@ line-height: 29px;
     font-size: 12px;
     
 }
-
+.br{
+    display: none;
+}
 
   
 .action{
